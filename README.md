@@ -5,6 +5,7 @@
 </head> 
  
 <body> 
+ Presione-el-cuadrito-de-color
  
  <!--Default Color is Black--> 
  <input type="color" value="#00FF00" />
