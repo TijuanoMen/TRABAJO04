@@ -1,7 +1,7 @@
 <html> 
  <head> 
  <meta name="viewport" content="width=device-width, initial-scale=1"> 
-  <tittle><h1>CAMBIA-DE-COLOR-Y-DE-LETRA</h1></tittle> 
+  <tittle><h1>CAMBIA-DE-COLOR-Y-DE-LETRA-Y-FORMATO</h1></tittle> 
 </head> 
  
 <body> 
@@ -21,6 +21,13 @@ Una de tantas veces pude escuchar como alguien entró a mi cuarto y comenzó a a
    document.getElementById("t_div").style.color = "red"; 
   } 
  </script> 
+ <b>HOLA</b> 
+ <br> 
+ <i>COMO-ESTAS</i> 
+ <br> 
+ <u>ESTA-ES-MI-TAREA</u> 
+ <br> 
+ <b><u><i>FELIZ-CUARENTENA</i></u></b>
  
 </body> 
  
